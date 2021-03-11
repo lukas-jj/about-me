@@ -17,7 +17,7 @@ My role in this project was product owner with a focus on the front end, as well
 
 ### Acousta-Search
 
-A personal project to create an acoustic guitar search engine to allow guitar nerds to search for guitars by specific dimensions, woods, neck width and more.
+A personal project to create an acoustic guitar search engine to allow guitar nerds to search for guitars by specific dimensions, wood, neck width and more.
 
 ### Pomodoro Timer
 
