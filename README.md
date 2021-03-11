@@ -10,10 +10,6 @@ Some of my passions include tech, travel, psychology, music, languages, conserva
  - CSS
  - React
  - Redux
- - Express.js
- - Knex.js
- - Agile project management
- - TDD (Test driven developement)
 
 # Currently studying
 
