@@ -1,2 +1,21 @@
-# about-me
-An introduction to who I am and what I do. 
+# About Me
+
+I am a full stack software developer looking to further my skills and meet people in the tech industry.
+Some of my passions include tech, travel, psychology, music, languages, conservation and education.
+
+# Skills 
+
+ - JavaScript
+ - HTML
+ - CSS
+ - React
+ - Redux
+ - Express.js
+ - Knex.js
+ - Agile project management
+ - TDD (Test driven developement)
+
+# Currently studying
+
+- Python
+- D3
