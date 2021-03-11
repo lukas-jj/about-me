@@ -34,6 +34,9 @@ A quick revision of React Router to create a website to hold useful information 
  - CSS
  - React
  - Redux
+ - Express.js
+ - Knex.js
+ - SQLite
 
 # Currently studying
 
