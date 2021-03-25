@@ -21,9 +21,11 @@ An acoustic guitar search engine to allow guitar nerds to search for guitars by 
 
 This was a project to learn React. I am tempted to start this one over from scratch!
 
+### John Kingston's guitar portfolio
+A website to display an NZ guitar luthier's works. There are some really interesting guitars on there. 
+
 
 # Skills 
-
  - JavaScript
  - HTML
  - CSS
