@@ -2,7 +2,7 @@
 
 I am a software developer looking to further my skills and meet people in the tech industry.
 
-Some of my passions include tech, travel, psychology, music, languages, conservation and education.
+Some of my passions include tech, travel, psychology, music, languages and education.
 
 # Ongoing proects 
 
